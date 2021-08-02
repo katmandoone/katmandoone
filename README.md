@@ -7,6 +7,11 @@ I have a practical mind and a positive attitude. If the first solution doesn't w
 ### Skills
 
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg' alt='python' align='left' width='40' height='40'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg' alt='jupyter' align='left' width='40' height='40'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg' alt='MS SQL Server' align='left' width='40' height='40'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg' alt='tensorflow' align='left' width='40' height='40'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg' alt='docker' align='left' width='40' height='40'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg' alt='git' align='left' width='40' height='40'>
 
 <!--
 **katmandoone/katmandoone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
