@@ -1,6 +1,6 @@
 ### Hey there! I'm Carl. 👋
 
-Fledgling Data Scientist with experience in Python and SQL. I'm well-versed in Pandas, Scikit-Learn, Matplotlib, Numpy, Tensorflow, and Keras. With a passion for all things data, I love learning, and I love machine learning! My background is in Music Theory and Composition, which lends itself well to analysis and project management.
+Fledgling Data Scientist with experience in Python and SQL. I'm well-versed in Pandas, Scikit-Learn, Matplotlib, Numpy, Tensorflow, and Keras. With a passion for all things data, not only do I love learning--I love machine learning! My background is in Music Theory and Composition, which lends itself well to analysis and project management.
 
 I have a practical mind and a positive attitude. If the first solution doesn't work, it's just an opportunity to look for a better solution.
 
