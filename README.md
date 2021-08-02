@@ -4,6 +4,10 @@ Fledgling Data Scientist with experience in Python and SQL. I'm well-versed in P
 
 I have a practical mind and a positive attitude. If the first solution doesn't work, it's just an opportunity to look for a better solution.
 
+### Skills
+
+<i class="devicon-python-plain-wordmark"></i>
+
 <!--
 **katmandoone/katmandoone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
