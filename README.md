@@ -6,7 +6,7 @@ I have a practical mind and a positive attitude. If the first solution doesn't w
 
 ### Skills
 
-<i class="devicon-python-plain-wordmark"></i>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg'>
 
 <!--
 **katmandoone/katmandoone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
