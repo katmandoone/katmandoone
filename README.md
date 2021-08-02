@@ -13,6 +13,8 @@ I have a practical mind and a positive attitude. If the first solution doesn't w
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg' alt='docker' align='left' width='40' height='40'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg' alt='git' align='left' width='40' height='40'>
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png' alt='matplotlib' align='left' width='40' height='40'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png' alt='pandas' align='left' width='40' height='40'>
+
 
 <!--
 **katmandoone/katmandoone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
