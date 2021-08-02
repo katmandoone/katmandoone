@@ -12,6 +12,7 @@ I have a practical mind and a positive attitude. If the first solution doesn't w
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg' alt='tensorflow' align='left' width='40' height='40'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg' alt='docker' align='left' width='40' height='40'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg' alt='git' align='left' width='40' height='40'>
+<img src='https://image.pngaaa.com/242/4152242-middle.png' alt='git' align='left' width='40' height='40'>
 
 <!--
 **katmandoone/katmandoone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
